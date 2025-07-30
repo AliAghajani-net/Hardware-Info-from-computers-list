@@ -68,7 +68,7 @@ LAPTOP-ALICE
 
 
 ---
-
+<div dir="rtl">
 
 
 
@@ -149,3 +149,6 @@ LAPTOP-ALICE
 
 
   - \\your-server\shared-folder\Hardware Info\PC01-hardware-info.txt
+
+
+</div>
