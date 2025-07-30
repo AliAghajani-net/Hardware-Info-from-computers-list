@@ -144,8 +144,8 @@ LAPTOP-ALICE
 
 
 .\HardwareInfoComputersList.ps1
-نتیجه:
-برای هر کامپیوتر یک فایل گزارش به‌صورت زیر در مسیر مشخص‌شده ایجاد خواهد شد:
+## نتیجه:
+- برای هر کامپیوتر یک فایل گزارش به‌صورت زیر در مسیر مشخص‌شده ایجاد خواهد شد:
 
 
-\\your-server\shared-folder\Hardware Info\PC01-hardware-info.txt
+  - \\your-server\shared-folder\Hardware Info\PC01-hardware-info.txt
