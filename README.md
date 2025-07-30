@@ -38,11 +38,11 @@ LAPTOP-ALICE
 powershell
 Enable-PSRemoting -Force
 
-✅ User running the script must have administrative rights on the remote systems.
+- ✅ User running the script must have administrative rights on the remote systems.
 
-✅ TCP port 5985 must be open on remote machines (default for WinRM).
+- ✅ TCP port 5985 must be open on remote machines (default for WinRM).
 
-✅ The shared folder (for reports) must:
+- ✅ The shared folder (for reports) must:
 
 Be accessible from all target computers
 
