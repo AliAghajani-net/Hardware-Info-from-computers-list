@@ -35,7 +35,7 @@ LAPTOP-ALICE
 ## ⚙️ Requirements
 
 - ✅ PowerShell Remoting must be enabled on all target computers:
-```powershell
+powershell
 Enable-PSRemoting -Force
 
 ✅ User running the script must have administrative rights on the remote systems.
@@ -46,7 +46,7 @@ Enable-PSRemoting -Force
 
 Be accessible from all target computers
 
-Be writable by the executing user ```
+Be writable by the executing user
 
 ---
 
