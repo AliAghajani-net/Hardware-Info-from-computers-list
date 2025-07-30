@@ -46,7 +46,7 @@ Enable-PSRemoting -Force
 
 Be accessible from all target computers
 
-Be writable by the executing user
+Be writable by the executing user```
 
 ---
 
