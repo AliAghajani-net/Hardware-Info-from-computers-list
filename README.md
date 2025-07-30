@@ -67,8 +67,8 @@ LAPTOP-ALICE
 
 
 
----
-<div dir="rtl">
+---  
+<div dir="rtl"    style="text-align: right"  >
 
 
 
