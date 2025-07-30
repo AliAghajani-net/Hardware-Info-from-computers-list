@@ -44,9 +44,8 @@ LAPTOP-ALICE
 
 - ✅ The shared folder (for reports) must:
 
-Be accessible from all target computers
-
-Be writable by the executing user
+  - Be accessible from all target computer
+  - Be writable by the executing user
 
 ---
 
